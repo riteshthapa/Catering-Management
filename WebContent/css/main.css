@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
+
+.navbar {
+	height: 100px;
+}
+
+.carousel-caption{
+font-family:    Garamond;
+font-size:      7em;
+color:          rgb(0,123,255);
+}
+
+#socialMedia a{
+	text-decoration: none;
+	text-align: center !important;
+}
+
+.carousel-caption h1{
+	font-size: 50px;
+	font-family: Monotype Corsiva;
+	font-style: bolder;
+}
+
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}

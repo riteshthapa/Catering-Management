@@ -1,0 +1,68 @@
+@charset "ISO-8859-1";
+
+.bg-img {
+  /* The image used */
+  background-image: url("../img/kitchen.jpg");
+
+  min-height: 780px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+  color: white;
+}
+
+
+.bg-img_staff {
+  /* The image used */
+  background-image: url("../img/staff.jpg");
+
+  min-height: 700px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+  color: white;
+}
+
+.bg-img_menu {
+  /* The image used */
+  background-image: url("../img/food.jpg");
+
+  min-height: 700px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+  color: white;
+}
+
+.form_container{
+	padding-left: 35%;
+	padding-right: 35%;
+	padding-bottom: 4%;
+	padding-top: 10%;
+}
+
+.form_container p{
+	background-color : black;
+}
+
+footer{
+	background-color: white;
+	color: black;
+}
+
+.link a {
+	text-alignment: center;
+	padding-left: 5%;
+}
